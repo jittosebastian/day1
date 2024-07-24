@@ -1,0 +1,17 @@
+body{
+    background-color: hsl(180, 100%, 50%);
+}
+
+.btn{
+    border-radius: 13px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(180, 55, 17);
+    cursor: pointer;
+}
+    .btn:hover{
+        background-color: azure;
+    }
+    h3{
+        text-align: center;
+    }
